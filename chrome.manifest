@@ -4,6 +4,7 @@ content screenshot chrome/content/
 
 locale screenshot en-US chrome/locale/en-US/
 locale screenshot ru-RU chrome/locale/ru-RU/
+locale screenshot de-DE chrome/locale/de-DE/
 
 skin screenshot classic/1.0 chrome/skin/
 
